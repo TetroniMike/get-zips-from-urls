@@ -4,6 +4,8 @@ Get a list of links to zip files from a list of URLs, then download the zip file
 This is a Linux bash script. It was tested exactly one time on my Linux PC. Use at your own risk/peril.
 Suggestions appreciated and will be reviewed and potentially incorporated - no promises though :)
 
+THIS IS NOT A TOOL FOR PIRACY - I BUILT IT TO DOWNLOAD ALL THE FREELY AVAILABLE ALBUM RELEASES FROM THE LOFI GIRL WEBSITE. Your mileage using this tool for anything else will vary.
+
 # How to
 
 1. Create "urls.txt", fill it with newline separated URLs - each URL should link to a webpage with a .zip download somewhere on the page
